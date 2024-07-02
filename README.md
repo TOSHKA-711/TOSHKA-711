@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-    <img src="https://github.com/hassan-aamer/My_Portfolio/blob/master/images/web.gif?raw=true" alt="web" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/786c5261185f6ff7dbda305586cf2b7a734f96db66ab48b34c7e9e041230c6d8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d634238586f7370475a4f3855517138372f67697068792e676966?raw=true" alt="web" style="max-width: 100%;">
 </div>
 
 ###
