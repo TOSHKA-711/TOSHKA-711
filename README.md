@@ -50,7 +50,7 @@
 
 ## 💼 Experience
 
-### 🏢 Backend Developer — CORTEXA (2025 – Present)
+### 🏢 Backend Developer — JIWAR (2025 – Present)
 - Built scalable backend systems using **NestJS & Node.js**
 - Designed secure APIs with **JWT & RBAC**
 - Optimized performance using **Redis caching**
